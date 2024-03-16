@@ -3,7 +3,37 @@ header {
     
     
 }
+.page-hearder{
+    text-decoration: none;
+} 
+body {
+    font-family: system-ui,
+        -apple-system,
+        sans-serif;
+}
 
+  ul {
+      list-style-type: none;
+  }
+
+  .page-nav .link {
+      text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
     main{
     h1{
     padding: 5% ;
