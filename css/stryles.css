@@ -1,7 +1,11 @@
-a {
-    color: black;
+header {
+    background-color: #f5f5f5;
 }
 
-header {
-    background-color: whitesmoke;
+a {
+    color: #212121;
+}
+
+nav {
+    background-color: rgba(0, 0, 255, 0.3);
 }
